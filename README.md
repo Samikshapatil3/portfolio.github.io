@@ -1,6 +1,6 @@
 # 🌟 Portfolio  
 
-### Hello, I'm *ADARSH KAKATKAR* 👋  
+### Hello, I'm *SAMIKSHA PATIL* 👋  
 🚀 Innovative Thinker | Problem Solver | Aspiring Technologist  
 
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. Here's a glimpse into my journey:  
@@ -8,30 +8,20 @@ I am passionate about leveraging technology to solve real-world problems and mak
 ---
 
 ## 🛠 *Projects*   
-
-### 🏞 *Tourism Problem Solution*  
-*Overview:*  
-A comprehensive solution addressing challenges in the tourism industry with three core components:  
-1. *Booking System*  
-   - Seamlessly manage bookings using *Chain Hashing* for fast and conflict-free data handling.  
-
-2. *Recommendation Model*  
-   - Suggests optimal travel routes and destinations using *Graph Algorithms* (e.g., Dijkstra's, A*).  
-   - Matches user preferences with destinations through the *KMP Algorithm*.  
-
-3. *Guidance System*  
-   - Provides in-trip navigation using *Shortest Path Algorithms*.  
-   - Leverages multi-criteria decision-making for personalized recommendations.  
-
-*Technical Stack:*  
-- *Languages:* C++, Java  
-- *Algorithms:* Chain Hashing, KMP, Graph Algorithms  
-- *Tools:* Hash Tables, Graphs, DAA Optimization Techniques  
-
-*Impact:*  
-- 💡 *Efficiency:* Faster, smarter booking management.  
-- 🧭 *Personalization:* Tailored destination recommendations.  
-- 🚗 *Navigation:* Reliable and optimal route planning.  
+Traffic Management System
+Our Traffic Management System is designed to streamline and digitize the essential functions of traffic management, catering to both administrative needs and user services.
+Admin Section:
+Traffic Monitoring: Real-time tracking and management of traffic flow.
+Violation Management: Record and process traffic violations efficiently.
+Report Generation: Create detailed reports for traffic analysis and planning.
+Complaint Handling: Manage and resolve public complaints related to traffic issues.
+User Section:
+License Application: Apply for new driving licenses and renewals.
+National Permit Services: Request and manage national permits for vehicles.
+Complaint Filing: Submit complaints regarding traffic violations or issues.
+RC Cancellation: Apply for the cancellation of vehicle registration certificates.
+Additional Services: Access various traffic-related services for convenience.
+This system ensures a more organized, accessible, and user-friendly approach to managing traffic-related tasks for both administrators and the general public.
 
 ---
 
@@ -53,12 +43,12 @@ A comprehensive solution addressing challenges in the tourism industry with thre
 
 ### 🎯 *Topic:*  
 - *DAA (Design and Analysis of Algorithms)*  
-- Focus: Algorithmic Problem Solving for Tourism Solutions  
+- Focus: Algorithmic Problem Solving for Traffic mangement system   
 
 ### 📋 *Details:*  
 - *Course Code:* 24ECAP202  
-- *Name:* ADARSH KAKATKAR  
-- *SRN:* 02FE23BCI054  
+- *Name:* SAMIKSHA PATIL  
+- *SRN:* 02FE23BCI033
 - *Course Instructor:* PRIYANKA GAVADE
 - *University:* KLE TECH  
 
