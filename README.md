@@ -34,9 +34,8 @@ This system ensures a more organized, accessible, and user-friendly approach to 
 ---
 
 ## 🌐 *Find Me Online*  
-- *GitHub:* [github.com/5Adarsh](https://github.com/5Adarsh)  
-- *LinkedIn:* [linkedin.com/in/adarsh-kakatkar](https://www.linkedin.com/in/adarsh-kakatkar-b294b8306)  
-
+- *GitHub:*https://github.com/Samikshapatil3
+- *LinkedIn:* https://www.linkedin.com/in/samiksha-patil-300a95306/
 ---
 
 ## 📚 *Portfolio Highlights*  
